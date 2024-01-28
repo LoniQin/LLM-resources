@@ -1,4 +1,4 @@
-# Large-Language-Models-A-Hands-On-Guide
+# Large Language Models: A Collection of Resources
 A collection of Jupyter notebooks demonstrating latest breakthrough of large language models.
 
 ## Notebooks 
