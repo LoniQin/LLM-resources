@@ -24,7 +24,7 @@ This repository is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions about this repository, please feel free to contact us at [email protected]
+If you have any questions about this repository, please feel free to contact us at lonnieqin1992@gmail.com
 
 ## Notebooks 
 1. [Chatbot with Phi-2](chatbot_with_phi2.ipynb)
