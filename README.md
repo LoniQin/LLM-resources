@@ -3,12 +3,16 @@ This repository contains a collection of resources related to large language mod
 
 ## Resources
 
-The resources in this repository include:
+The resources in this repository will include:
 
 * Papers and articles about LLMs
 * Tutorials and guides on how to use LLMs
 * Code and datasets for training and evaluating LLMs
 * Examples of LLMs in action
+
+## Notebooks 
+1. [Chatbot with Phi-2](chatbot_with_phi2.ipynb)
+2. [Chatbot with Mistral-7B-Instruct](Chatbot_with_mistral_7b_instruct.ipynb)
 
 ## Usage
 
@@ -25,7 +29,3 @@ This repository is licensed under the MIT License.
 ## Contact
 
 If you have any questions about this repository, please feel free to contact us at lonnieqin1992@gmail.com
-
-## Notebooks 
-1. [Chatbot with Phi-2](chatbot_with_phi2.ipynb)
-2. [Chatbot with Mistral-7B-Instruct](Chatbot_with_mistral_7b_instruct.ipynb)
