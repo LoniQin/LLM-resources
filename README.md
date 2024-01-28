@@ -3,10 +3,9 @@ This repository contains a collection of resources related to large language mod
 
 ## Resources
 
-The resources in this repository will include:
-
+The resources in this repository includes or will include in the future:
+* Jupyter notebooks about LLMs
 * Papers and articles about LLMs
-* Tutorials and guides on how to use LLMs
 * Code and datasets for training and evaluating LLMs
 * Examples of LLMs in action
 
