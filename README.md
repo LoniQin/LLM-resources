@@ -16,7 +16,7 @@ The resources in this repository includes or will include in the future:
 
 ## Papers
 * [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)
-
+* [Mistral 7B](https://arxiv.org/pdf/2310.06825v1.pdf)
 ## Usage
 
 This repository can be used to learn more about LLMs, to get started using LLMs in your own work, and to see examples of what LLMs can do.
