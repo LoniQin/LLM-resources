@@ -20,7 +20,7 @@ The resources in this repository includes or will include in the future:
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 ## Usage
 
-This repository can be used to learn more about LLMs, to get started using LLMs in your own work, and to see examples of what LLMs can do.
+This repository can be used to learn more about LLMs. To get started using LLMs in your own work, and to see examples of what LLMs can do, you could open notebooks separatedly using Google Colab and run the code.
 
 ## Contributing
 
