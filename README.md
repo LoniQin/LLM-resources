@@ -13,6 +13,7 @@ The resources in this repository includes or will include in the future:
 1. [Chatbot with Phi-2](chatbot_with_phi2.ipynb)
 2. [Chatbot with Mistral-7B-Instruct](Chatbot_with_mistral_7b_instruct.ipynb)
 3. [LLM with Mamba](LLM_with_Mamba.ipynb)
+4. [Chatbot with mamba-chat](https://github.com/LoniQin/LLM-resources/blob/main/Chatbot_with_mamba_chat.ipynb)
 
 ## Papers
 * [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)
