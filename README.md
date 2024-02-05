@@ -14,6 +14,7 @@ The resources in this repository includes or will include in the future:
 2. [Chatbot with Mistral-7B-Instruct](Chatbot_with_mistral_7b_instruct.ipynb)
 3. [LLM with Mamba](LLM_with_Mamba.ipynb)
 4. [Chatbot with mamba-chat](https://github.com/LoniQin/LLM-resources/blob/main/Chatbot_with_mamba_chat.ipynb)
+5. [Chatbot with Mixtral 8x7B](chatbot-with-mixtral-8x7b.ipynb)
 
 ## Papers
 * [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)
