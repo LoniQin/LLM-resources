@@ -1,5 +1,5 @@
 # LLM Resources
-This repository contains a collection of resources related to large language models (LLMs). LLMs are artificial neural networks that are trained on massive datasets of text, code, and other data. They have been shown to achieve state-of-the-art results on a variety of natural language processing tasks, such as text classification, question answering, and summarization.
+This repository contains a collection of resources related to large language models (LLMs). LLMs are artificial neural networks that are trained on massive datasets of text, code, and other data. They have been shown to achieve state-of-the-art results on a variety of natural language processing tasks, such as text classification, question answering, and summarization. This repository will update latest LLM applications and provide some tools to work with LLM at the same time.
 
 ## Resources
 
